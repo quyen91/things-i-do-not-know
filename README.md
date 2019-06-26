@@ -1,4 +1,5 @@
 # things-i-do-not-know
 
 - New API protocols like GraphQL, gRPC, and Apache Kafka? (https://www.infoq.com/articles/microservices-intro/)
-- Message queue, message broker, rabbitmq....
+- Message queue, message broker, service broker, rabbitmq....
+(http://www.giaosucan.com/2018/01/kien-truc-message-queue-trong.html)
