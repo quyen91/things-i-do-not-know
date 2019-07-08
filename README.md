@@ -5,3 +5,4 @@
 (http://www.giaosucan.com/2018/01/kien-truc-message-queue-trong.html)
 - Lamda, serverless (https://stackoverflow.com/a/50127264/3551956)
 - A/B testing
+- Idempotency (https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
