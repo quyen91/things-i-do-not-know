@@ -6,3 +6,4 @@
 - Lamda, serverless (https://stackoverflow.com/a/50127264/3551956)
 - A/B testing
 - Idempotency (https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- HTTP2, streaming, TLS1..(https://engineering.linkedin.com/blog/2019/06/espresso-new-netty-framework)
