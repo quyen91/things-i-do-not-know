@@ -7,8 +7,9 @@
 - Idempotency (https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - HTTP2, streaming, TLS1..(https://engineering.linkedin.com/blog/2019/06/espresso-new-netty-framework)
 - Service-oriented architecture (SOA) (https://eng.uber.com/soa/)
-- ETL, DataWareHouse (https://medium.com/@lehuutoan/etl-l%C3%A0-g%C3%AC-7a94d58f722f)
-
+- ETL, DataWareHouse 
+  +  https://medium.com/@lehuutoan/etl-l%C3%A0-g%C3%AC-7a94d58f722f
+  +  https://eng.uber.com/uber-big-data-platform/
 # Current research
 - Tinder blog (https://medium.com/tinder-engineering/)
 - Linkedin blog (https://engineering.linkedin.com/blog/)
