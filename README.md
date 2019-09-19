@@ -10,6 +10,8 @@
 - ETL, DataWareHouse, Hadoop
   +  https://medium.com/@lehuutoan/etl-l%C3%A0-g%C3%AC-7a94d58f722f
   +  https://eng.uber.com/uber-big-data-platform/
+- Cluster vs sharding architecture
+
 # Current research
 - Tinder blog (https://medium.com/tinder-engineering/)
 - Linkedin blog (https://engineering.linkedin.com/blog/)
