@@ -18,3 +18,4 @@
 - Gojek (https://blog.gojekengineering.com)
 - Stackoverflow (https://stackoverflow.blog/engineering/)
 - Twitch (https://blog.twitch.tv/tagged/engineering)
+- Opensource architecture - aosabook (http://www.aosabook.org/en/index.html)
