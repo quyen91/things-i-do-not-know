@@ -3,6 +3,7 @@
 - Message queue, message broker, service broker, rabbitmq....
 (http://www.giaosucan.com/2018/01/kien-truc-message-queue-trong.html)
 - Lamda, serverless (https://stackoverflow.com/a/50127264/3551956)
+- Lamda, serverless with TypeScript (https://lesscodeismore.dev/serverless-typescript/)
 - A/B testing
 - Idempotency (https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - HTTP2, streaming, TLS1..(https://engineering.linkedin.com/blog/2019/06/espresso-new-netty-framework)
