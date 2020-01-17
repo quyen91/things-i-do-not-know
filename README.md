@@ -13,6 +13,10 @@
   +  https://eng.uber.com/uber-big-data-platform/
 - Cluster vs sharding architecture
 - Service Mesh (https://kickoff.tech/2019/05/05/service-mesh-la-gi/)
+- TypeScript:
+  ##### Top typescript project:
+  - VSCode
+  - Github/Desktop
 
 # Current research
 - Tinder blog (https://medium.com/tinder-engineering/)
